@@ -1,0 +1,33 @@
+
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÔüÏJ$dc74cb99-6f51-4267-afbf-5eac9967ca28
+Œ	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£…ÏˆJ$aea84298-61f2-41db-ac42-9de7a265fbd5
+Œ	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º½©äJ$71fa527d-a2d4-413e-b0f9-3c90fb1a3ba9
+e
+java:S2387")"in" is the name of a field in "BaseDao".(äÆ¾ÓJ$07e88a10-a86a-45df-b875-6af0ce6a96a9
+ˆ	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‚ÈJ$70ab07f5-0251-405d-8f97-dd81a59685a0
+f	java:S106"+Replace this use of System.out by a logger.(·Õû¦J$b4fe090a-4713-4452-befe-0d285a224190
+f	java:S106"+Replace this use of System.out by a logger.(İ†ˆÀJ$16430b9a-863e-4558-a92c-62e84475ae78
+f	java:S106"+Replace this use of System.out by a logger.(ë°å–J$8e8fff49-2803-46fb-a13f-1c8a7f8c2f1d
+k	java:S106!"+Replace this use of System.out by a logger.(Å½ö«úÿÿÿÿJ$9cd3b203-17b9-46ae-a93e-5e15cb0a0b4b
+‰	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ºü¾J$1d8e9283-8c74-44de-95dc-c7698691b355
+
+java:S1659*">Declare "m" and all following declarations on a separate line.(”¹¹ÈşÿÿÿÿJ$f9d145e8-356e-4f7f-89af-46a54dec713e
+k	java:S106-"+Replace this use of System.out by a logger.(İ¨ üÿÿÿÿJ$6dfcf76b-3570-4e03-9aee-dde57fcac45d
+k	java:S106."+Replace this use of System.out by a logger.(Âµ¥˜ÿÿÿÿÿJ$324a7b0d-2861-4f84-9159-3b4a21f86636
+f	java:S1060"+Replace this use of System.out by a logger.(©…‰¼J$4f9525ab-ffd7-433c-8f2f-e7d77fcea902
+k	java:S1062"+Replace this use of System.out by a logger.(Ê®ÎØúÿÿÿÿJ$c9047f38-a69f-4491-9d4a-85b10f5d4627
+f	java:S1065"+Replace this use of System.out by a logger.(ı™¤J$b36ea26e-bee4-4590-8838-aeaf0d460963
+k	java:S1066"+Replace this use of System.out by a logger.(Âµ¥˜ÿÿÿÿÿJ$c3d6196c-2609-4bcd-bd8b-0de1d9d65c82
+f	java:S1068"+Replace this use of System.out by a logger.(©…‰¼J$33701fd5-207c-4315-ad55-00414460517a
+k	java:S106:"+Replace this use of System.out by a logger.(Ê®ÎØúÿÿÿÿJ$c55dc8dc-189a-4c26-bccf-533b8f4bd5ff
+k	java:S106@"+Replace this use of System.out by a logger.(¶ÑâÕúÿÿÿÿJ$a3704543-6726-4e4e-a4ba-a660e0bd1dd4
+k	java:S106B"+Replace this use of System.out by a logger.(àÕ÷µıÿÿÿÿJ$81b8c300-419e-4957-8f4c-791ca8dbb7fb
+f	java:S106C"+Replace this use of System.out by a logger.(áß’ÜJ$fb766854-4a62-466d-a571-e5ff1c1c8003
+k	java:S106D"+Replace this use of System.out by a logger.(ŠÚØ©üÿÿÿÿJ$a7308164-46c9-45ce-b80f-847227ab4b49
+k	java:S106E"+Replace this use of System.out by a logger.(´å»õşÿÿÿÿJ$01a5f568-5335-4759-92cf-07e8c25f0fb4
+q
+java:S1128"5Remove this unused import 'java.text.ParseException'.(ñ®ï•J$a75ab979-b529-443c-a413-90e3ae04a420
+s
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛJ$d59f3aca-4f78-4d7d-8f8b-63d267355018
+g
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼üJ$cf6e8639-4bbe-43ca-9f75-434e91115796

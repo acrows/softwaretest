@@ -1,0 +1,30 @@
+
+±
+java:S1192G"pDefine a constant instead of duplicating this literal "UPDATE stay_room SET rno=? ,bedno=? WHERE sno=?" 3 times.(Óˆ¥ÔøÿÿÿÿJ$4d118f18-3751-4bba-b2b4-8c5d51fc1e17
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ÈÉ J$379bacbb-3fc4-483e-9e25-c412344a7e67
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦£ÀŸûÿÿÿÿJ$70589365-cc65-4824-9390-51b1ff6077be
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦£ÀŸûÿÿÿÿJ$2f1f6091-654a-436e-b17c-a191d7144153
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁœÏÌşÿÿÿÿJ$8bc877f6-f179-4f81-b721-6f2e183dbc30
+e
+java:S2387")"in" is the name of a field in "BaseDao".(äÆ¾ÓJ$342290a6-3dfb-48c1-9dcc-32f793512d8b
+“
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(á×Ë„ùÿÿÿÿJ$6be86840-1045-45be-8e5d-7933aa810f65
+
+java:S1659"@Declare "rno" and all following declarations on a separate line.(ˆÎÍ…üÿÿÿÿJ$66f5f0c3-d3d9-42ab-8ea3-77d54fd3ba26
+h
+java:S1659"'Declare "new_bedno" on a separate line.(¦£ÀŸûÿÿÿÿJ$05d24b12-7cf7-48a9-a153-27ba4b054cb7
+f	java:S106"+Replace this use of System.out by a logger.(·Õû¦J$1a6b64fc-9bbf-4c3f-b1db-8f2831c518a8
+f	java:S106"+Replace this use of System.out by a logger.(Üı“J$e3474a4b-36e9-4e2e-b16a-96fd4b25fbed
+d
+java:S1659&"#Declare "exist" on a separate line.(›Å–éşÿÿÿÿJ$9398eb8d-181b-4b1d-a77c-3a249b2696a2
+k	java:S106*"+Replace this use of System.out by a logger.(Í‡¥ ùÿÿÿÿJ$3ee8a817-5759-4668-bbf9-8b4694fe1510
+f	java:S106-"+Replace this use of System.out by a logger.(Ëè¬’J$f7b3fd93-8f77-4330-a8b3-be28378929ac
+f	java:S106/"+Replace this use of System.out by a logger.(˜ˆ’J$4e0c7e94-c6a6-48db-ade5-891998f26b25
+f	java:S1067"+Replace this use of System.out by a logger.(‰Ş’…J$f905d586-e79d-4c21-9ee7-49659532996c
+k	java:S106;"+Replace this use of System.out by a logger.(û­ÁİûÿÿÿÿJ$4a7e5925-00db-45df-8228-08f8520f7fba
+f	java:S106A"+Replace this use of System.out by a logger.(ãØ­íJ$fb684e69-49d6-416b-bee7-3a69a95a275a
+k	java:S106B"+Replace this use of System.out by a logger.(Ë‹©öøÿÿÿÿJ$0129c7c7-30f8-4ab7-9860-d401bf427fee
+k	java:S106I"+Replace this use of System.out by a logger.(ÆŞ¢üÿÿÿÿJ$adc9a63f-b01a-4cd3-9735-aaad28cba592
+k	java:S106N"+Replace this use of System.out by a logger.(ĞáÈøÿÿÿÿJ$52c0d32e-ad92-4dac-b688-e5039fd3b43d
+f	java:S106U"+Replace this use of System.out by a logger.(ô›¥’J$203c2a36-7e40-4869-893e-ec313d5c32c6
+f	java:S106Y"+Replace this use of System.out by a logger.(Çí³úJ$8f6adae3-e10e-4cef-9a53-b952eb89082d

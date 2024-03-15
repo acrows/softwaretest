@@ -1,0 +1,27 @@
+
+–
+java:S2293¯"YReplace the type specification in this constructor call with the diamond operator ("<>").(«üÎŒJ$437cea29-6f37-4b16-9836-fb076c50d181
+
+java:S2095+"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¹ÏöıÿÿÿÿJ$6b87f01e-6f4b-4d18-a716-dece5a69b09d
+f	java:S106:"+Replace this use of System.out by a logger.(Òß·ùJ$68ee1386-e7ac-4ad9-96ac-1c8c5fb96a98
+f	java:S106<"+Replace this use of System.out by a logger.(”»“’J$5bc4733b-7f5d-4104-82ab-585000cb26af
+f	java:S106D"+Replace this use of System.out by a logger.(á®£¤J$7eb57494-a9f3-431d-8ac8-fbf0f9262dfe
+k	java:S106G"+Replace this use of System.out by a logger.(ÇØ¨ÑşÿÿÿÿJ$2d2d7533-38fb-401a-be26-60f423631c56
+^
+java:S1659a""Declare "rsex" on a separate line.(ÒÚèJ$d742e735-e919-4f27-a582-6068e91e3216
+n
+java:S1659‡"%Declare "roomSum" on a separate line.(¾‡˜ùÿÿÿÿ8¼æºå1J$ea2b2685-aafa-4110-93e9-2095bbd085d1
+s
+java:S1481‡"*Remove this unused "inSum" local variable.(¾‡˜ùÿÿÿÿ8¾æºå1J$192ede2d-0946-4449-970a-6a6daa1691e0
+u
+java:S1481‡",Remove this unused "roomSum" local variable.(¾‡˜ùÿÿÿÿ8¾æºå1J$8ef37c18-9d5b-4080-a382-4a4437fd6ec6
+`
+java:S1659²"#Declare "bedno" on a separate line.(ì¡ŠÚJ$e1de42c1-b7cb-40be-bd0d-14a463cc1f30
+l	java:S106·"+Replace this use of System.out by a logger.(Í¸ÒƒüÿÿÿÿJ$80d88112-9d9a-408b-bbd7-eb72b9a029d6
+g	java:S106¹"+Replace this use of System.out by a logger.(¦³ÕœJ$2449b13a-8f3b-4ac1-8da8-9bc03d1d6691
+H
+java:S1659Ú"%Declare "roomSum" on a separate line.(¾‡˜ùÿÿÿÿ8¼µš¢å1
+M
+java:S1481Ú"*Remove this unused "inSum" local variable.(¾‡˜ùÿÿÿÿ8¾µš¢å1
+O
+java:S1481Ú",Remove this unused "roomSum" local variable.(¾‡˜ùÿÿÿÿ8¾µš¢å1

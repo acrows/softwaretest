@@ -1,0 +1,24 @@
+
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ£¾üÿÿÿÿJ$69d32cf3-95ac-487e-bb84-8f217dc36993
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º»ÚJ$0af19b8e-bfa1-4cd6-82a5-822249b932db
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ºœÍûÿÿÿÿJ$8698f294-a09b-4000-afef-916af086582e
+~
+java:S2184&"BCast one of the operands of this division operation to a "double".(±¸»ƒJ$6fd46631-96ba-4473-84b8-c21b071a3a8d
+
+java:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ŒÛÆËJ$f4a62be2-ed56-48d3-bef3-299aace9bdfa
+_
+java:S1659"#Declare "bedno" on a separate line.(ÿîñèJ$69fe1776-a920-41c2-bac4-90f1532af700
+d
+java:S1481"(Remove this unused "rno" local variable.(ÿîñèJ$fb3ab681-6b39-4eba-ab9e-8ee50105eecf
+f
+java:S1481"*Remove this unused "bedno" local variable.(ÿîñèJ$faeaba0f-a656-4397-8e27-996cb89b1af0
+f	java:S106"+Replace this use of System.out by a logger.(·Õû¦J$34c52796-f108-4423-aa63-a3335cf01870
+f	java:S106"+Replace this use of System.out by a logger.(¦³ÕœJ$edc5f434-8405-4f53-85ca-e63c9bcde3c0
+k	java:S106("+Replace this use of System.out by a logger.(ÿÒ´úÿÿÿÿJ$34dafaca-c00a-4ce5-9b99-b660fce0cdde
+k	java:S106,"+Replace this use of System.out by a logger.(Óù¬àüÿÿÿÿJ$0441324f-27dc-40f9-bfb0-d9a311f53e18
+r	java:S106-"+Replace this use of System.out by a logger.(çşÖ€üÿÿÿÿ8çÍóå1J$634084b5-3deb-4999-9d01-c62ce2c868ba
+k	java:S1061"+Replace this use of System.out by a logger.(Ù ´şÿÿÿÿJ$02facf35-41d4-4510-9f7b-2f4e47c722df
+k	java:S1065"+Replace this use of System.out by a logger.(İèÅŒÿÿÿÿÿJ$32696359-7d21-4fe8-83bc-91b3cbdbb826
+f	java:S106:"+Replace this use of System.out by a logger.(ûİ¾¬J$b3c02e3c-a6cb-48b5-ac57-e49a65e558fd
+k	java:S106H"+Replace this use of System.out by a logger.(Å½ö«úÿÿÿÿJ$4e9a8324-b389-4243-9a64-49e838777d46

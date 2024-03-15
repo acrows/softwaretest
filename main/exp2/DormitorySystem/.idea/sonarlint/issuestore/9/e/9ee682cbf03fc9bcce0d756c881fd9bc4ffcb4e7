@@ -1,0 +1,7 @@
+
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹£õJ$339cd18e-b639-42fc-9588-8ca3e78492d0
+‘	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãı™ÜşÿÿÿÿJ$71bd8dc1-019c-4bb9-8879-0346da0f793f
+“	java:S116"SRename this field "out_room" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÆ›³øÿÿÿÿJ$7219b587-a71b-4381-9ec3-d892e584ecb7
+|	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(‹£õJ$15801f8f-db82-43c3-8959-0ee42cdf5ae2
+	java:S100T"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò„˜ıÿÿÿÿJ$599017b1-a731-4fe8-a991-57d07aa1651a
+	java:S100X"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãı™ÜşÿÿÿÿJ$66951d15-a4a4-4fb3-8954-7209ef1c668f

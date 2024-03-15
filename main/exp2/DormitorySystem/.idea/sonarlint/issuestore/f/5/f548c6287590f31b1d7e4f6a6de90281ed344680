@@ -1,0 +1,31 @@
+
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ç’“üÿÿÿÿJ$70c82059-8bae-41c7-937a-da18c9444c36
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Ã øüÿÿÿÿJ$2149242b-ba91-4433-8150-8fac1541df03
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¾±ŒøÿÿÿÿJ$a4fed67a-1bbd-4986-86d9-fffe8aaee586
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š×ÿŸJ$44889fdc-0828-48e8-a09a-de97cad31474
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÔüÏJ$f2ca641f-d7cd-4275-9f8f-edbec3f426c1
+„
+java:S2184I"HCast one of the operands of this multiplication operation to a "double".(Ş…®âJ$415af056-5969-47f9-8d7a-af2442459ba1
+e
+java:S2387
+")"in" is the name of a field in "BaseDao".(äÆ¾ÓJ$68aabea3-d518-4fbb-904c-55adca1bc2af
+
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(õº”ñJ$bb55f175-0259-4c29-8ee1-8e5687780897
+r
+java:S1854R"6Remove this useless assignment to local variable "sr".(èÒÓJ$b3e748bd-c1e4-4ba6-a1b5-818fe9c41663
+}
+java:S1659)"ADeclare "full" and all following declarations on a separate line.(š¸ĞîJ$4b3648e8-65a8-4804-aa34-cec3b21d8d57
+f	java:S106"+Replace this use of System.out by a logger.(·Õû¦J$a3eedf40-1a44-48ef-b18e-c663845415f0
+f	java:S106"+Replace this use of System.out by a logger.(İ†ˆÀJ$91abfbf8-993b-4031-bf3f-99b7e3d07377
+f	java:S106""+Replace this use of System.out by a logger.(´Ü—ĞJ$e70543cf-d0d8-46ef-a137-ad77a490c0a0
+f	java:S106."+Replace this use of System.out by a logger.(èâùÊJ$d3c478d8-d2c5-49b0-81f4-3a35e2685844
+f	java:S1061"+Replace this use of System.out by a logger.(Ëè¬’J$45a4619c-dc02-46a6-97bd-b2f895c9cc16
+f	java:S1063"+Replace this use of System.out by a logger.(‹Í¡«J$57646887-4116-45dc-950a-e0cf2fd2e3ad
+f	java:S1065"+Replace this use of System.out by a logger.(˜ˆ’J$2d7a7723-714f-4782-99c6-83bb922ab15a
+k	java:S106?"+Replace this use of System.out by a logger.(€§Ø›ÿÿÿÿÿJ$3f6c0e44-cb1e-4e90-b823-7d2e6baedd9c
+f	java:S106B"+Replace this use of System.out by a logger.(ÒÖåçJ$bcdae6e6-3032-4232-9d84-626d6987fe58
+k	java:S106G"+Replace this use of System.out by a logger.(Ù˜¢°úÿÿÿÿJ$71f051b7-52ab-4df3-ad34-b78edcf7ca2b
+k	java:S106N"+Replace this use of System.out by a logger.(Å®ŞşÿÿÿÿJ$30c06517-0272-4393-a828-97b213d320ce
+m	java:S106O"+Replace this use of System.out by a logger.(É×æ–8²Ìóå1J$10b72fcc-0377-45b5-b515-e308c40bf07b
+c
+java:S1481R"'Remove this unused "sr" local variable.(èÒÓJ$f9d36cbb-22ec-42b6-a25c-1ffcb1e6ea8c

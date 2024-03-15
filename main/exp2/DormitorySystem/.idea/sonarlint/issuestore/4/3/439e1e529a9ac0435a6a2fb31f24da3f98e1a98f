@@ -1,0 +1,30 @@
+
+e
+java:S2387")"in" is the name of a field in "BaseDao".(äÆ¾ÓJ$9e88fa3b-6181-4b83-8a3d-35444e2d5160
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÑ¦¾ıÿÿÿÿJ$1f5ca153-6d40-493d-bf50-3d8315545849
+g
+java:S1659"&Declare "password" on a separate line.(ÖèÜ£ùÿÿÿÿJ$035a8738-d20a-4c3f-999a-873964adb301
+k	java:S106"+Replace this use of System.out by a logger.(øÚ•ËøÿÿÿÿJ$18e9dc40-21f9-4ebc-a177-934e496ae005
+e	java:S106"+Replace this use of System.out by a logger.(À©ñJ$1517c4e1-8dde-4a2c-a395-2f96448aa1f2
+ˆ	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£†´QJ$69b0588d-0416-4233-8dbd-d3112c8e8906
+k	java:S106/"+Replace this use of System.out by a logger.(×¦Ô˜øÿÿÿÿJ$1dd2d97a-924c-46c2-8d73-5963f405ec43
+b	java:S1311""Add a default case to this switch.(­Ö¹§úÿÿÿÿJ$8a47b6f7-7dd6-414f-a881-2d022c9785d8
+f	java:S106G"+Replace this use of System.out by a logger.(û„Í²J$557f00a0-456d-467a-b81a-5f397243a8bf
+b	java:S131I""Add a default case to this switch.(­Ö¹§úÿÿÿÿJ$6b6ae404-6d2e-4c3e-bcca-737b1aef2d7b
+f	java:S106b"+Replace this use of System.out by a logger.(ÿà²šJ$90e9b213-a704-4ed3-b3c0-ab15cf5deb8d
+b	java:S131d""Add a default case to this switch.(­Ö¹§úÿÿÿÿJ$c82ee136-1b26-4efe-8e6e-14c3ed54d0e5
+	java:S100r"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÖªÄùÿÿÿÿJ$bbd66b6e-d397-466d-8fc0-ab2fa1545a96
+f	java:S106w"+Replace this use of System.out by a logger.(õÑ§J$296919e2-54ba-43e5-99c8-a113dce126b8
+b	java:S131y""Add a default case to this switch.(­Ö¹§úÿÿÿÿJ$900ac7b6-9f00-4019-ae62-e2ff9ee9626c
+Š	java:S100Š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£—›™J$e337ee5a-26ad-4ea7-803d-c2cf858e73c5
+l	java:S106"+Replace this use of System.out by a logger.(´çÆÃüÿÿÿÿJ$fd598ca1-c4c8-486e-98c9-cf34c751ab63
+c	java:S131‘""Add a default case to this switch.(­Ö¹§úÿÿÿÿJ$7578e7ce-f06c-444a-aba5-f2a2325daaa7
+Š	java:S100¥"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş·J$fb5537ce-07ff-4c98-a0ea-a03d104d1afa
+g	java:S106ª"+Replace this use of System.out by a logger.(Ş½÷ÒJ$907594f2-ea9d-4b7a-aee8-c36b7856ec7a
+c	java:S131¬""Add a default case to this switch.(­Ö¹§úÿÿÿÿJ$6c7b3766-46cb-46be-8ae5-87417c9422de
+g
+java:S1128"+Remove this unused import 'entity.OutRoom'.(Ô±…ÏJ$9c97f80f-796d-4546-8417-1c21cce8a7cb
+p
+java:S1128"/Remove this unused import 'entity.ReplaceRoom'.(‡ÃïÙıÿÿÿÿJ$42df8535-636b-4ba3-9895-585e6cac0042
+d
+java:S1128"(Remove this unused import 'entity.Room'.(Ö›§¯J$066bec40-3a9a-4aed-b81d-52059ab8ef1a

@@ -1,0 +1,11 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œ¬ßùÿÿÿÿ
+@	java:S106"+Replace this use of System.err by a logger.(Ò†şï
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¦Ê¤”
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(€°éÆúÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÎÆ¹È
+U
+java:S1854"9Remove this useless assignment to local variable "token".(œ§½ùÿÿÿÿ

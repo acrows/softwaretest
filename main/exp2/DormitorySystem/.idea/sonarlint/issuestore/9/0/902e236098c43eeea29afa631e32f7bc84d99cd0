@@ -1,0 +1,23 @@
+
+Œ
+java:S1301$"KReplace this "switch" statement by "if" statements to increase readability.(Ô´ØÕıÿÿÿÿJ$3c18e5fd-eb19-444f-ad6e-a81d1a3bd6a6
+e
+java:S2387
+")"in" is the name of a field in "BaseDao".(äÆ¾ÓJ$197746e9-b1fa-418f-a6c9-0b3416c49961
+“
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(À ´ÀùÿÿÿÿJ$08453e3b-2ffa-453a-9bcf-3a04fdcbc580
+c
+java:S1659""Declare "days" on a separate line.(‡©«ŞıÿÿÿÿJ$3cb20c9e-35a4-439c-9461-2cace1849ff7
+n
+java:S1481"-Remove this unused "outttime" local variable.(²ë–ıÿÿÿÿJ$8ba49daf-06e1-430f-a347-6e59833013f3
+f	java:S106"+Replace this use of System.out by a logger.(·Õû¦J$4d058b53-1340-4a7a-a3eb-c6364f00a1c6
+f	java:S106""+Replace this use of System.out by a logger.(ü¼®J$73dc9654-f1e9-47e9-bb56-53ddb79ad6bb
+b	java:S131$""Add a default case to this switch.(Ô´ØÕıÿÿÿÿJ$3695d85f-f1d3-46f4-93ce-9e5655519f4b
+k	java:S106&"+Replace this use of System.out by a logger.(Àû’ôüÿÿÿÿJ$2a80697c-c1ab-4aeb-b3f5-d8bde70f7ec2
+k	java:S106*"+Replace this use of System.out by a logger.(ÔğİúÿÿÿÿJ$e4949386-a577-46c0-9566-6665e5ec0cd7
+k	java:S106."+Replace this use of System.out by a logger.(Ù ´şÿÿÿÿJ$12c4bd57-4157-4c23-808c-673c3ac43b69
+f	java:S1067"+Replace this use of System.out by a logger.(£ÇÖîJ$9a5f2dda-637f-4308-ac27-2758d1f16423
+k	java:S106<"+Replace this use of System.out by a logger.(ÔğİúÿÿÿÿJ$88508b82-6a2c-4771-92c1-4c111cdabd62
+k	java:S106@"+Replace this use of System.out by a logger.(Ù ´şÿÿÿÿJ$5c1448c3-6119-4053-9c9f-a463734393a9
+k	java:S106D"+Replace this use of System.out by a logger.(è–İÈşÿÿÿÿJ$6b1c5b79-7010-40a1-9f62-d17850313850
+k	java:S106P"+Replace this use of System.out by a logger.(Ù´Û™ıÿÿÿÿJ$7805ee68-d652-43a3-a87e-12642ed5f37b
