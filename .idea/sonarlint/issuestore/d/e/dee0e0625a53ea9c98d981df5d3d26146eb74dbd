@@ -1,0 +1,32 @@
+
+‹
+java:S1192G"pDefine a constant instead of duplicating this literal "UPDATE stay_room SET rno=? ,bedno=? WHERE sno=?" 3 times.(Óˆ¥Ôøÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(á×Ë„ùÿÿÿÿ
+[
+java:S1659"@Declare "rno" and all following declarations on a separate line.(ˆÎÍ…üÿÿÿÿ
+<
+java:S1659"&Declare "newBedno" on a separate line.(Ñ¢¿â
+J
+java:S1481"/Remove this unused "changeTime" local variable.(´“‡Çıÿÿÿÿ
+A
+java:S1481"+Remove this unused "newRno" local variable.(Ñ¢¿â
+C
+java:S1481"-Remove this unused "newBedno" local variable.(Ñ¢¿â
+J
+java:S1481"/Remove this unused "replaceSno" local variable.(Æ„Æ¬üÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(·Õû¦
+@	java:S106"+Replace this use of System.out by a logger.(Üı“
+>
+java:S1659&"#Declare "exist" on a separate line.(›Å–éşÿÿÿÿ
+E	java:S106*"+Replace this use of System.out by a logger.(Í‡¥ ùÿÿÿÿ
+@	java:S106-"+Replace this use of System.out by a logger.(Ëè¬’
+@	java:S106/"+Replace this use of System.out by a logger.(˜ˆ’
+@	java:S1067"+Replace this use of System.out by a logger.(‰Ş’…
+E	java:S106;"+Replace this use of System.out by a logger.(û­Áİûÿÿÿÿ
+@	java:S106A"+Replace this use of System.out by a logger.(ãØ­í
+E	java:S106B"+Replace this use of System.out by a logger.(Ë‹©öøÿÿÿÿ
+E	java:S106I"+Replace this use of System.out by a logger.(ÆŞ¢üÿÿÿÿ
+E	java:S106N"+Replace this use of System.out by a logger.(ĞáÈøÿÿÿÿ
+@	java:S106U"+Replace this use of System.out by a logger.(ô›¥’
+@	java:S106Y"+Replace this use of System.out by a logger.(Çí³ú

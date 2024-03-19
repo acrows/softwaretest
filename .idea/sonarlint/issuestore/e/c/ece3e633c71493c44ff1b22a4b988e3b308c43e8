@@ -1,0 +1,29 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(õº”ñ
+L
+java:S1854R"6Remove this useless assignment to local variable "sr".(èÒÓ
+W
+java:S1659)"ADeclare "full" and all following declarations on a separate line.(š¸Ğî
+I
+java:S1481".Remove this unused "needMoney" local variable.(Ö€¶Ôüÿÿÿÿ
+C
+java:S1481".Remove this unused "paidMoney" local variable.(üŒş5
+I
+java:S1481".Remove this unused "diffMoney" local variable.(ë¹¬ùÿÿÿÿ
+B
+java:S1481",Remove this unused "outRoom" local variable.(åÆŸ„
+@	java:S106"+Replace this use of System.out by a logger.(·Õû¦
+@	java:S106"+Replace this use of System.out by a logger.(İ†ˆÀ
+@	java:S106""+Replace this use of System.out by a logger.(´Ü—Ğ
+@	java:S106."+Replace this use of System.out by a logger.(èâùÊ
+@	java:S1061"+Replace this use of System.out by a logger.(Ëè¬’
+@	java:S1063"+Replace this use of System.out by a logger.(‹Í¡«
+@	java:S1065"+Replace this use of System.out by a logger.(˜ˆ’
+E	java:S106?"+Replace this use of System.out by a logger.(€§Ø›ÿÿÿÿÿ
+@	java:S106B"+Replace this use of System.out by a logger.(ÒÖåç
+E	java:S106G"+Replace this use of System.out by a logger.(Ù˜¢°úÿÿÿÿ
+E	java:S106N"+Replace this use of System.out by a logger.(Å®Şşÿÿÿÿ
+@	java:S106O"+Replace this use of System.out by a logger.(É×æ–
+=
+java:S1481R"'Remove this unused "sr" local variable.(èÒÓ

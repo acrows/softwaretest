@@ -1,0 +1,12 @@
+
+0
+java:S1220""Move this file to a named package.
+@	java:S106"+Replace this use of System.err by a logger.(Ò†şï
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¦Ê¤”
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(€°éÆúÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÎÆ¹È
+U
+java:S1854"9Remove this useless assignment to local variable "token".(œ§½ùÿÿÿÿ

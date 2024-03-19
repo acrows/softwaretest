@@ -1,0 +1,25 @@
+
+p
+java:S2293¯"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹‹£
+@	java:S106:"+Replace this use of System.out by a logger.(Òß·ù
+@	java:S106<"+Replace this use of System.out by a logger.(”»“’
+@	java:S106D"+Replace this use of System.out by a logger.(á®£¤
+E	java:S106G"+Replace this use of System.out by a logger.(ÇØ¨Ñşÿÿÿÿ
+8
+java:S1659a""Declare "rsex" on a separate line.(ÒÚè
+A
+java:S1659‡"%Declare "roomSum" on a separate line.(¾‡˜ùÿÿÿÿ
+F
+java:S1481‡"*Remove this unused "inSum" local variable.(¾‡˜ùÿÿÿÿ
+H
+java:S1481‡",Remove this unused "roomSum" local variable.(¾‡˜ùÿÿÿÿ
+:
+java:S1659²"#Declare "bedno" on a separate line.(ì¡ŠÚ
+F	java:S106·"+Replace this use of System.out by a logger.(Í¸Òƒüÿÿÿÿ
+A	java:S106¹"+Replace this use of System.out by a logger.(¦³Õœ
+A
+java:S1659Ú"%Declare "roomSum" on a separate line.(¾‡˜ùÿÿÿÿ
+F
+java:S1481Ú"*Remove this unused "inSum" local variable.(¾‡˜ùÿÿÿÿ
+H
+java:S1481Ú",Remove this unused "roomSum" local variable.(¾‡˜ùÿÿÿÿ

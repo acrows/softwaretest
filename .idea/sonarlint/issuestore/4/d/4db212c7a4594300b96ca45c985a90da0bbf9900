@@ -1,0 +1,11 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Çµí‘
+X
+java:S1659
+"CDeclare "option" and all following declarations on a separate line.(Å×¡~
+;
+java:S1659" Declare "e2" on a separate line.(Ê¤¢£ùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ÉÈ‘Œ
+@	java:S106""+Replace this use of System.out by a logger.(…°Ø¡
+?	java:S106="+Replace this use of System.out by a logger.(­•ÜB
